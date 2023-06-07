@@ -1,0 +1,1113 @@
+<!DOCTYPE html>
+<!-- saved from url=(0025)https://nepalwanders.com/ -->
+<html class="no-js" lang="en-US"><!--<![endif]--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="google-site-verification" content="xgBU15Si2n8Og7Ia7I0-syElVzvrFCRssLiAwFBXRfY">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="apple-touch-icon" href="https://nepalwanders.com/wp-content/themes/newnepalwanders/img/apple-touch-icon.png">
+
+ <link rel="stylesheet" href="./banner_files/bootstrap.min.css">
+    <!-- ALL GOOGLE FONTS -->
+    <link href="./banner_files/css" rel="stylesheet">
+    <!-- FONT AWESOME CSS -->
+    <link rel="stylesheet" href="./banner_files/linear-fonts.css">
+   <link rel="stylesheet" href="./banner_files/font-awesome.min.css">
+    <!-- OWL CAROSEL CSS -->
+    <link rel="stylesheet" href="./banner_files/owl.carousel.css">
+    <link rel="stylesheet" href="./banner_files/owl.theme.css">
+    <!-- MAGNIFIC CSS -->
+    <link rel="stylesheet" href="./banner_files/magnific-popup.css">
+    <!-- ANIMATE CSS -->
+    <link rel="stylesheet" href="./banner_files/animate.min.css">
+    <!-- MAIN STYLE CSS -->
+    <link rel="stylesheet" href="./banner_files/style.css">
+    <link rel="stylesheet" href="./banner_files/inner.css">
+    <link rel="stylesheet" href="./banner_files/inner1.css">
+    <!-- RESPONSIVE CSS -->
+    <link rel="stylesheet" href="./banner_files/responsive.css">
+    <link rel="stylesheet" href="./banner_files/tes.css">
+
+
+
+
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.7.2 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Home - Nepal Wanders</title>
+	<link rel="canonical" href="https://nepalwanders.com/">
+	<meta property="og:locale" content="en_US">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Home - Nepal Wanders">
+	<meta property="og:url" content="https://nepalwanders.com/">
+	<meta property="og:site_name" content="Nepal Wanders">
+	<meta property="article:modified_time" content="2017-09-11T07:13:09+00:00">
+	<meta name="twitter:card" content="summary">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://nepalwanders.com/","url":"https://nepalwanders.com/","name":"Home - Nepal Wanders","isPartOf":{"@id":"https://nepalwanders.com/#website"},"datePublished":"2016-11-22T07:23:40+00:00","dateModified":"2017-09-11T07:13:09+00:00","breadcrumb":{"@id":"https://nepalwanders.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://nepalwanders.com/"]}]},{"@type":"BreadcrumbList","@id":"https://nepalwanders.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://nepalwanders.com/#website","url":"https://nepalwanders.com/","name":"Nepal Wanders","description":"Travels and Tours","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://nepalwanders.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+	<meta name="google-site-verification" content="googled99694d7d7ab4211">
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="dns-prefetch" href="https://static.addtoany.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Nepal Wanders » Feed" href="https://nepalwanders.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Nepal Wanders » Comments Feed" href="https://nepalwanders.com/comments/feed/">
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nepalwanders.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.0.3"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><style type="text/css" id="operaUserStyle"></style><script src="./banner_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="contact-form-7-css" href="./banner_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="nepalwanders-style-css" href="./banner_files/style(1).css" type="text/css" media="all">
+<link rel="stylesheet" id="addtoany-css" href="./banner_files/addtoany.min.css" type="text/css" media="all">
+<script type="text/javascript" id="addtoany-core-js-before">
+window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};
+</script>
+<script type="text/javascript" async="" src="./banner_files/page.js.download" id="addtoany-core-js"></script>
+<script type="text/javascript" src="./banner_files/jquery.min.js.download" id="jquery-core-js"></script>
+<script type="text/javascript" src="./banner_files/jquery-migrate.min.js.download" id="jquery-migrate-js"></script>
+<script type="text/javascript" async="" src="./banner_files/addtoany.min.js.download" id="addtoany-jquery-js"></script>
+<link rel="https://api.w.org/" href="https://nepalwanders.com/wp-json/"><link rel="alternate" type="application/json" href="https://nepalwanders.com/wp-json/wp/v2/pages/90"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://nepalwanders.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://nepalwanders.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 6.0.3">
+<link rel="shortlink" href="https://nepalwanders.com/">
+<link rel="alternate" type="application/json+oembed" href="https://nepalwanders.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnepalwanders.com%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://nepalwanders.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnepalwanders.com%2F&amp;format=xml">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://nepalwanders.com/wp-content/uploads/2022/06/cropped-index-32x32.png" sizes="32x32">
+<link rel="icon" href="https://nepalwanders.com/wp-content/uploads/2022/06/cropped-index-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://nepalwanders.com/wp-content/uploads/2022/06/cropped-index-180x180.png">
+<meta name="msapplication-TileImage" content="https://nepalwanders.com/wp-content/uploads/2022/06/cropped-index-270x270.png">
+<script src="./banner_files/core.9b4ec89f.js.download" type="module"></script><style type="text/css">:root topadblock, :root span[id^="ezoic-pub-ad-placeholder-"], :root guj-ad, :root gpt-ad, :root div[jsdata*="CarouselPLA-"][data-id^="CarouselPLA-"], :root div[id^="yandex_ad"], :root div[id^="vuukle-ad-"], :root div[id^="rc-widget-"], :root div[id^="lazyad-"], :root div[id^="js-dfp-"], :root div[id^="gtm-ad-"], :root div[id^="gpt_ad_"], :root div[id^="gpt-ad-hor"], :root div[id^="div-gpt-"], :root div[id^="dfp-slot-"], :root div[id^="dfp-ad-"], :root div[id^="advads_"], :root div[id^="adspot-"], :root div[id^="ads300_250-widget-"], :root div[id^="ads300_100-widget-"], :root div[id^="ads250_250-widget-"], :root div[id^="adrotate_widgets-"], :root div[id^="adngin-"], :root div[id^="adfox_"], :root div[id^="ad_script_"], :root div[id^="ad-server-"], :root div[id^="ad-gpt-"], :root div[id^="ad-div-"], :root div[id*="ScriptRoot"], :root div[id*="MarketGid"], :root div[data-mpu1], :root div[data-insertion], :root div[data-id-advertdfpconf], :root div[data-google-query-id], :root hl-adsense, :root div[data-contentexchange-widget], :root div[data-content="Advertisement"], :root div[data-alias="300x250 Ad 2"], :root div[data-alias="300x250 Ad 1"], :root div[data-adzone], :root div[data-adunit-path], :root div[data-ad-wrapper], :root div[data-ad-targeting], :root div[data-ad-placeholder], :root div[class^="s-dfp-"], :root div[class^="native-ad-"], :root div[data-dfp-id], :root div[class^="kiwi-ad-wrapper"], :root div[class^="Adstyled__AdWrapper-"], :root div[aria-label="Ads"], :root display-ads, :root aside[id^="advads_ad_widget-"], :root aside[id^="adrotate_widgets-"], :root article.ad, :root div[class^="gpt-ad-hor"], :root ark-top-ad, :root app-advertisement, :root amp-embed[type="taboola"], :root amp-connatix-player, :root amp-ad-custom, :root ad-shield-ads, :root ad-desktop-sidebar, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://www.vfreecams.com/in/?track="], :root a[href^="https://www.rabbits.webcam/?id="], :root a[href^="https://www.purevpn.com/"][href*="&utm_source=aff-"], :root a[href^="https://www.privateinternetaccess.com/"] > img, :root a[href^="https://www.passeura.com/"], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href^="https://www.oboom.com/ref/"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="https://www.mrskin.com/account/"], :root a[href^="https://www.kingsoffetish.com/tour?partner_id="], :root a[href^="https://www.jackery.com?aff="] > img, :root a[href^="https://www.iyalc.com/"], :root a[href^="https://www.infowarsstore.com/"] > img, :root a[href^="https://www.highperformancegate.com/"], :root a[href^="https://www.healthrangerstore.com/"] > img, :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root div[class^="Display_displayAd"], :root a[href^="https://www.sheetmusicplus.com/?aff_id="], :root a[href^="https://www.bang.com/?aff="], :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="https://www.adsexse.com/x/"], :root a[href^="https://webroutetrk.com/"], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="https://wantopticalfreelance.com/"], :root a[href^="https://waisheph.com/"], :root a[href^="https://uncensored.game/"], :root a[href^="https://twinrdsyn.com/"], :root a[href^="https://ttf.trmobc.com/"], :root a[href^="https://trusted-click-host.com/"], :root a[href^="https://trk.watchlivesports4k.club/"], :root a[href^="https://trk.moviesflix4k.xyz/"], :root a[href^="https://trf.bannerator.com/"], :root a[href^="https://trappist-1d.com/"], :root a[href^="https://tragency-clesburg.icu/"], :root a[href^="https://traffdaq.com/"], :root a[href^="https://tracking.trackcasino.co/"], :root a[href^="https://tracking.comfortclick.eu/"], :root a[href^="https://tracking.avapartner.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.totalav.com/"], :root a[href^="https://track.themadtrcker.com/"], :root a[href^="https://track.interactivegf.com/"], :root a[href^="https://vlnk.me/"], :root a[href^="https://track.healthtrader.com/"], :root a[href^="https://track.effiliation.com/servlet/effi.click?"] > img, :root zeus-ad, :root a[href^="https://track.clickmoi.xyz/"], :root a[href^="https://track.afcpatrk.com/"], :root a[href^="https://tupitea.co/"], :root a[href^="https://track.adform.net/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="https://tm-offers.gamingadult.com/"], :root div[data-adname], :root a[href^="https://thechleads.pro/"], :root a[href^="https://tracking.gitads.io/"], :root a[href^="https://taghaugh.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="https://www.profitablecpmgate.com/"], :root a[href^="https://t.adating.link/"], :root a[href^="https://topoffers.com/"][href*="/?pid="], :root a[href^="https://syndication.dynsrvtbg.com/"], :root a[href^="https://streamate.com/landing/click/"], :root a[href^="https://s.zlink2.com/"], :root a[href^="https://reachtrgt.com/"], :root a[href^="https://queersodadults.com/"], :root a[href^="https://ptapjmp.com/"], :root a[href^="https://promo-bc.com/"], :root a[href^="https://prf.hn/click/"][href*="/camref:"] > img, :root a[href^="https://serve.awmdelivery.com/"], :root a[href^="https://prf.hn/click/"][href*="/adref:"] > img, :root a[href^="https://pongidsrunback.com/"], :root a[href^="https://pcm.bannerator.com/"], :root iframe[id^="google_ads_frame"], :root a[href^="https://pb-track.com/"], :root a[href^="https://partners.fxoro.com/click.php?"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="https://torrentsafeguard.com/?aid="], :root a[href^="https://offers.refchamp.com/"], :root a[href^="https://oackoubs.com/"], :root a[href^="https://track.wg-aff.com"], :root a[href^="https://nutrientassumptionclaims.com/"], :root a[href^="https://ndt5.net/"], :root a[href^="https://natour.naughtyamerica.com/track/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="https://myusenet.xyz/"], :root a[href^="https://msecure117.com/"], :root a[href^="https://moneynow.one/"], :root div[id^="ezoic-pub-ad-"], :root a[href^="https://mk-cdn.net/"], :root .trc_rbox_div .syndicatedItemUB, :root [href^="https://zone.gotrackier.com/"], :root a[href^="https://meet-to-fuck.com/"], :root [href^="https://www.herbanomic.com/"] > img, :root a[href^="https://maymooth-stopic.com/"], :root div[id^="google_dfp_"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://look.utndln.com/"], :root a[href^="https://a.bestcontentweb.top/"], :root a[href^="https://lobimax.com/"], :root a[href^="https://lead1.pl/"], :root a[href^="https://refpazkjixes.top/"], :root a[href^="https://landing.brazzersplus.com/"], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://ads.leovegas.com/redirect.aspx?"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="https://juicyads.in/"], :root a[href^="https://itubego.com/video-downloader/?affid="], :root a[href^="https://movie.download-file.org/"], :root a[href^="https://iqbroker.com/"][href*="?aff="], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root a[href^="https://iac.ampxdirect.com/"], :root [data-revive-zoneid], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://go.zybrdr.com"], :root [href^="http://join.michelle-austin.com/"], :root a[href^="https://go.xxxiijmp.com"], :root a[href*=".zlinkm.com/"], :root a[href^="https://go.xtbaffiliates.com/"], :root a[href^="https://thaudray.com/"], :root [data-role="tile-ads-module"], :root a[href^="https://adsrv4k.com/"], :root a[href^="https://go.xlviirdr.com"], :root .card-captioned.crd > .crd--cnt > .s2nPlayer, :root [data-css-class="dfp-inarticle"], :root a[href^="https://go.tmrjmp.com"], :root a[href^="https://go.strpjmp.com/"], :root a[href^="https://go.skinstrip.net"][href*="?campaignId="], :root a[href^="https://go.markets.com/visit/?bta="], :root a[href^="//lambingsyddir.com/"], :root a[href^="https://billing.purevpn.com/aff.php"] > img, :root a[href^="https://go.hpyrdr.com/"], :root a[href^="https://go.goaserv.com/"], :root a[href^="https://go.ebrokerserve.com/"], :root a[href^="https://go.dmzjmp.com"], :root a[href^="https://ismlks.com/"], :root [href^="https://www.mypillow.com/"] > img, :root a[href^="https://azpresearch.club/"], :root a[href^="https://go.xlirdr.com"], :root app-ad, :root a[href^="https://track.afftck.com/"], :root a[href^="https://gohere.pl/"], :root a[href^="https://go.cmrdr.com/"], :root a[href^="https://www.bebi.com"], :root a[href^="https://loboclick.com"], :root iframe[src^="https://pagead2.googlesyndication.com/"], :root a[href^="http://www.onwebcam.com/random?t_link="], :root a[href^="https://get2nesoft1.ru/"], :root [href^="https://kingered-banctours.com/"], :root a[href^="https://get.surfshark.net/aff_c?"][href*="&aff_id="] > img, :root a-ad, :root a[href^="https://affiliate.rusvpn.com/click.php?"], :root a[href^="https://geniusdexchange.com/"], :root a[href^="https://aj1070.online/"], :root a[href^="https://frameworkdeserve.com/"], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://financeads.net/tc.php?"], :root bottomadblock, :root a[href^="https://fertilitycommand.com/"], :root a[href^="https://bluedelivery.pro/"], :root a[href^="https://fast-redirecting.com/"], :root a[href^="https://fakelay.com/"], :root a[href^="https://medleyads.com/"], :root div[data-native-ad], :root a[href^="https://engine.trackingdesks.com/"], :root a[href^="https://engine.blueistheneworanges.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="https://dianches-inchor.com/"], :root a[href^="https://go.admjmp.com/"], :root amp-fx-flying-carpet, :root a[href^="https://dfsdkkka.com/"], :root .trc_related_container div[data-item-syndicated="true"], :root a[href^="https://delivery.porn.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="https://deliver.tf2www.com/"], :root [href^="https://www.targetingpartner.com/"], :root [href^="https://detachedbates.com/"], :root a[href^="https://deliver.ptgncdn.com/"], :root a[href^="https://datingbests.life/"], :root #kt_player > a[target="_blank"], :root a[href^="https://cpartner.bdswiss.com/"], :root a[href^="https://clixtrac.com/"], :root AD-TRIPLE-BOX, :root a[href^="https://click.hoolig.app/"], :root img[src^="https://images.purevpnaffiliates.com"], :root a[href^="https://porntubemate.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://click.dtiserv2.com/"], :root a[href^="https://go.xlvirdr.com"], :root a[href^="https://claring-loccelkin.com/"], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="https://chaturbate.com/in/?tour="], :root a[href^="https://aaucwbe.com/"], :root a[href^="https://cams.imagetwist.com/in/?track="], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="https://explore.findanswersnow.net/"], :root a[href^="https://camfapr.com/landing/click/"], :root a[href^="https://my-movie.club/"], :root a[href^="https://cam4com.go2cloud.org/"], :root a[href^="https://affcpatrk.com/"], :root a[href^="https://bongacams2.com/track?"], :root a[href^="https://www.sheetmusicplus.com/"][href*="?aff_id="], :root a[href^="https://bngpt.com/"], :root #topstuff > #tads, :root a[href^="https://black77854.com/"], :root a[href^="https://burpee.xyz/"], :root a[href*=".flndmyiove.net/"], :root [href^="http://join.trannies-fuck.com/"], :root [href^="http://www.fleshlightgirls.com/"], :root a[href^="https://bestdatinghere.life/"], :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[href^="https://banners.livepartners.com/"], :root a[href^="https://m.do.co/c/"] > img, :root div[id^="sticky_ad_"], :root a[href^="https://avtub.click/assets/link.php"], :root a[href^="https://go.gldrdr.com/"], :root [id^="ad_sky"], :root a[href^="https://funkydaters.com/"], :root [href^="https://www.cloudways.com/en/?id"], :root a[href^="https://as.sexad.net/"], :root a[href^="https://bestcond1tions.com/"], :root a[href^="https://takeallsoft.ru/"], :root a[href^="https://as.conjectwatson.com/"], :root [href="https://masstortfinancing.com"] img, :root a[href^="https://bongacams10.com/track?"], :root [data-ez-name], :root a[href^="https://awecrptjmp.com/"], :root a[href^="https://someperceptionparade.com/"], :root a[href^="https://galaxyroms.net/?scr="], :root a[href^="https://albionsoftwares.com/"], :root display-ad-component, :root a[href^="https://ak.hetaruwg.com/"], :root a[href^="https://go.etoro.com/"] > img, :root a[href^="https://go.alxbgo.com/"], :root a[href^="https://aff-ads.stickywilds.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="https://ads.cdn.live/"], :root a[href^="https://join.sexworld3d.com/track/"], :root a[href^="https://intenseaffiliates.com/redirect/"], :root a[href^="https://aweptjmp.com/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="https://affpa.top/"], :root a[href^="https://adnetwrk.com/"], :root a[href^="https://adjoincomprise.com/"], :root [href^="http://misslinkvocation.com/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="http://secure.vivid.com/track/"], :root a[href^="https://go.nordvpn.net/aff"] > img, :root [href^="http://clicks.totemcash.com/"], :root a[href^="https://misspkl.com/"], :root a[href^="https://ad.zanox.com/ppc/"] > img, :root a[href^="https://ad.kubiccomps.icu/"], :root a[href^="https://adswick.com/"], :root a[href^="https://static.fleshlight.com/images/banners/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="https://meet-sex-here.com/"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root a[href^="https://a.medfoodhome.com/"], :root [data-m-ad-id], :root a[href^="https://a-ads.com/"], :root a[href^="http://www.mrskin.com/tour"], :root a[href^="https://k2s.cc/pr/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://www.coiwqe.site/"], :root iframe[src^="http://www.adpeepshosted.com/"], :root a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img, :root a[href^="http://www.adultempire.com/unlimited/promo?"][href*="&partner_id="], :root a[href^="https://ads-for-free.com/click.php?"], :root a[href^="http://www.FriendlyDuck.com/"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root .trc_rbox .syndicatedItem, :root a[href^="https://1free33style.com/"], :root a[href^="http://rs-stripe.wsj.com/stripe/redirect"], :root a[href^="http://tour.mrskin.com/"], :root a[href^="http://pubads.g.doubleclick.net/"], :root [onclick*="content.ad/"], :root a[href^="http://pityhostngco2.xyz/"], :root a[href^="http://partners.etoro.com/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href^="http://paid.outbrain.com/network/redir?"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root [href^="https://www.reimageplus.com/"], :root a[href^="https://engine.phn.doublepimp.com/"], :root a[href^="http://intent.bingads.com/"], :root a[href^="https://cagothie.net/"], :root a[href^="https://watchmygirlfriend.tv/"], :root a[href^="http://go.xtbaffiliates.com/"], :root a[href^="http://go.fpmarkets.com/"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="http://go.247traffic.com/"], :root a[href^="http://www.advcashpro.com/aff/"], :root a[href^="http://deloplen.com/"], :root a[href^="http://d2.zedo.com/"], :root .rc-cta[data-target], :root [href^="http://go.cm-trk2.com/"], :root a[href^="http://adtrack1.club/"], :root a[href^="http://click.payserve.com/"], :root a[href^="https://bs.serving-sys.com"], :root [class^="chp_ads_block"], :root a[href^="http://betahit.click/"], :root a[href^="https://clicks.pipaffiliates.com/"], :root [href^="https://noqreport.com/"] > img, :root a[href^="//wagerprocuratorantiterrorist.com/"], :root a[href^="http://adserver.adreactor.com/"], :root [href^="https://cipledecline.buzz/"], :root a[href^="https://earandmarketing.com/"], :root a[href^="http://adf.ly/?id="], :root [href^="http://homemoviestube.com/"], :root a[href^="http://ad.doubleclick.net/"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root a[href^="//syndication.dynsrvtbg.com/"], :root a[href^="//pubads.g.doubleclick.net/"], :root a[href^="http://m.hsrve.com/"], :root [class^="s2nPlayer"], :root a[href^="https://chaturbate.jjgirls.com/?track="], :root a[href^="https://ausoafab.net/"], :root a[href^="//benoopto.com/"], :root [id^="ad-wrap-"], :root [href^="https://www.restoro.com/"], :root a[href^="//apptjmp.com/"], :root a[href^="https://dooloust.net/"], :root [href^="https://www.mypatriotsupply.com/"] > img, :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root [href^="https://secure.bmtmicro.com/servlets/"], :root a[href="//rufflycouncil.com/"], :root a[href*="https://www.sweetdeals.com/"] img, :root div[data-native_ad], :root a[href*=".zlink9.com/"], :root [data-d-ad-id], :root a[href*=".engine.adglare.net/"], :root a[href^="https://a.bestcontentoperation.top/"], :root a[href^="https://dishphysics.com/"], :root a[href^="//go.xlviiirdr.com"], :root [data-dynamic-ads], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root [data-ad-width], :root [href^="https://join.playboyplus.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="https://landing1.brazzersnetwork.com"], :root #slashboxes > .deals-rail, :root [href^="http://globsads.com/"], :root [href^="https://www.brighteonstore.com/products/"] img, :root a[href^="http://bc.vc/?r="], :root a[href^="https://a2.adform.net/"], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root [href^="https://clk.right-wing-health.com/"], :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://axdsz.pro/"], :root a[href^="http://bodelen.com/"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root a[href^="http://allaptair.club/"], :root a[href^="//go.eabids.com/"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root [href^="https://cpa.10kfreesilver.com/"], :root a[href^="https://a.bestcontentfood.top/"], :root a[href^="https://reinstandpointdumbest.com/"], :root a[href*="http://MyPillow.com"] > img, :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://wct.link/"], :root [href^="https://goldforyourfuture.com/clk.trk"] img, :root [href^="https://infinitytrk.com/"], :root [onclick^="location.href='http://www.reimageplus.com"], :root a[href^="https://pl.premium4kflix.website/"], :root [id^="chp_ads_block"], :root a[href^="https://go.julrdr.com/"], :root a[href^="//chrif8kdstie.com/"], :root [id^="section-ad-banner"], :root .commercial-unit-mobile-top > div[data-pla="1"], :root a[href^="https://www.sweetdeals.com"], :root a[href^="https://track.bruceads.com/"], :root a[href^="https://t.aslnk.link/"], :root [href^="https://zstacklife.com/"] img, :root [data-ad-manager-id], :root a[href^="https://fleshlight.sjv.io/"], :root div[id^="zergnet-widget"], :root [href^="https://www.mystore.com/"] > img, :root div[id^="ad-position-"], :root a[href^="http://adultfriendfinder.com/go/page/landing"], :root a[href^="http://affiliate.glbtracker.com/"], :root a[href^="https://leg.xyz/?track="], :root a[href^="https://syndication.exoclick.com/"], :root [href^="https://track.fiverr.com/visit/"] > img, :root a[href^="https://go.trackitalltheway.com/"], :root a[href^="https://go.cmtaffiliates.com/"], :root [data-name="adaptiveConstructorAd"], :root [href^="https://optimizedelite.com/"] > img, :root a[href^="https://www.awin1.com/cread.php?awinaffid="], :root a[href^="//thaudray.com/"], :root div[id^="crt-"][style], :root a[href^="https://s.zlink1.com/"], :root a[href^="http://adultgames.xxx/"], :root a[href^="https://traffic.bannerator.com/"], :root [href^="https://shiftnetwork.infusionsoft.com/go/"] > img, :root a[href^="https://vo2.qrlsx.com/"], :root [href^="https://www.avantlink.com/click.php"] img, :root a[href^="https://losingoldfry.com/"], :root div[id^="ad-inserter-"], :root .scroll-fixable.rail-right > .deals-rail, :root a[href^="https://see.kmisln.com/"], :root [href^="https://routewebtk.com/"], :root a[href^="https://www.bet365.com/"][href*="affiliate="], :root a[href^="https://mmwebhandler.aff-online.com/"], :root [href^="https://r.kraken.com/"], :root a[href^="https://awptjmp.com/"], :root a[href^="https://go.goasrv.com/"], :root .commercial-unit-mobile-top > .v7hl4d, :root [href^="http://mypillow.com/"] > img, :root a[href^="http://bongacams.com/track?"], :root a[href^="https://mediaserver.entainpartners.com/renderBanner.do?"], :root [href^="https://stvkr.com/"], :root a[href^="https://go.hpyjmp.com"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://fastestvpn.com/lifetime-special-deal?a_aid="], :root ADS-RIGHT, :root [href^="https://mystore.com/"] > img, :root [href^="https://mypatriotsupply.com/"] > img, :root [href^="https://mylead.global/stl/"] > img, :root .vid-present > .van_vid_carousel__padding, :root a[href^="https://syndication.optimizesrv.com/"], :root [id^="google_ads_iframe"], :root a[href^="https://go.xxxijmp.com"], :root [href^="https://istlnkcl.com/"], :root a[href^="https://playuhd.host/"], :root a[href^="https://5hjdbfjfd5.monster/"], :root [href^="https://www.hostg.xyz/"] > img, :root .section-subheader > .section-hotel-prices-header, :root [href^="http://join.ts-dominopresley.com/"], :root [href^="https://go.affiliatexe.com/"], :root a[href^="https://meet-sexhere.com/"], :root [href^="https://go.4rabettraff.com/"], :root [href^="https://glersakr.com/"], :root a[href^="https://click.a-ads.com/"], :root a[href^="https://wittered-mainging.com/"], :root [href^="https://engine.gettopple.com/"], :root [href^="https://awbbjmp.com/"], :root a[href^="https://gghf.mobi/"], :root [href^="https://affect3dnetwork.com/track/"], :root a[href^="https://go.currency.com/"], :root [href^="http://www.mypillow.com/"] > img, :root a[href^="//coarsewary.com/"], :root a[href^="https://a.montangop.top/"], :root [href^="https://v.investologic.co.uk/"], :root a[href^="https://dialling-abutory.com/"], :root div[id^="div-ads-"], :root [href^="https://rapidgator.net/article/premium/ref/"], :root a[href^="https://www.sugarinstant.com/?partner_id="], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root div[id^="advads-"], :root div[data-role="sidebarAd"], :root [href^="https://join3.bannedsextapes.com"], :root div[data-spotim-slot], :root [href^="https://antiagingbed.com/discount/"] > img, :root a[href^="https://go.247traffic.com/"], :root [href^="https://join.girlsoutwest.com/"], :root [href^="http://trafficare.net/"], :root a[href^="https://adserver.adreactor.com/"], :root [href^="http://join.shemalesfromhell.com/"], :root [id^="ad_slider"], :root [href^="http://join.shemale.xxx/"], :root [href^="https://ilovemyfreedoms.com/landing-"], :root a[href^="https://ads.betfair.com/redirect.aspx?"], :root a[href^="http://cam4com.go2cloud.org/aff_c?"], :root a[href^="https://www.chngtrack.com/"], :root a[href^="https://cpmspace.com/"], :root [href^="https://freecourseweb.com/"] > .sitefriend, :root a[href^="https://ads.planetwin365affiliate.com/redirect.aspx?"], :root [href^="http://join.rodneymoore.com/"], :root a[href^="http://trk.mdrtrck.com/"], :root [href^="https://shrugartisticelder.com"], :root a[href*=".trust.zone"], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://creacdn.top-convert.com/"], :root [href^="https://go.xlrdr.com"], :root [id^="div-gpt-ad"], :root .ob_container .item-container-obpd, :root [href^="http://www.pingperfect.com/aff.php"], :root a[href^="https://scurewall.co/"], :root [name^="google_ads_iframe"], :root [href^="//ngeoziadiyc4hi2e.com/"], :root a[href^="https://go.xxxjmp.com"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root #leader-companion > a[href], :root [data-desktop-ad-id], :root [href^="https://wct.link/"], :root [href^="https://traffserve.com/"], :root a[href^="https://1startfiledownload1.com/"], :root a[href^="https://a.adtng.com/"], :root a[href^="http://static.fleshlight.com/images/banners/"], :root [href="https://ourgoldguy.com/contact/"] img, :root [href="https://www.masstortfinancing.com/"] > img, :root a[href^="https://lnkxt.bannerator.com/"], :root div[id^="ad_position_"], :root a[href^="https://ovb.im/"], :root a[href^="http://hotcandyland.com/partner/"], :root [href="https://jdrucker.com/gold"] > img, :root [href^="https://goldcometals.com/clk.trk"], :root [data-mobile-ad-id], :root a[href^="http://affiliates.thrixxx.com/"], :root #searchResultsList > div > div[onclick$="'inline.ad'});"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root [data-template-type="nativead"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="https://go.xlivrdr.com"], :root a[href^="https://www.onlineusershielder.com/torrent-guard/?"], :root [data-freestar-ad], :root div[id^="_vdo_ads_player_ai_"], :root a[href^="http://enter.anabolic.com/track/"], :root AMP-AD, :root [data-ad-cls], :root div[id^="taboola-stream-"], :root [href^="https://go.astutelinks.com/"], :root [href^="http://join.hardcoreshemalevideo.com/"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root [href^="http://residenceseeingstanding.com/"], :root a[href^="https://www.adskeeper.com"], :root a[href^="//agacelebir.com/"], :root [href^="https://totlnkcl.com/"], :root div[data-adunit], :root app-large-ad, :root [href^="https://turtlebids.irauctions.com/"] img, :root a[href^="http://www.onclickmega.com/jump/next.php?"], :root .trc_rbox_border_elm .syndicatedItem, :root [class^="amp-ad-"], :root .grid > .container > #aside-promotion, :root DFP-AD, :root a[href^="https://www.camsoda.com/enter.php?id="], :root AD-SLOT, :root a[href^="https://www.liquidfire.mobi/"], :root [href^="https://click2cvs.com/"], :root [href^="https://mypillow.com/"] > img, :root [href^="https://ad.admitad.com/"], :root [href^="http://join.shemalepornstar.com/"], :root a[href^="https://go.xlviiirdr.com"], :root .trc_rbox_div .syndicatedItem, :root [data-ad-module], :root [href^="https://trackfin.asia/"], :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root a[href^="https://spygasm.com/track?"], :root a[href^="https://agacelebir.com/"], :root a[href*="//lkstrck2.com/"], :root .plistaList > .itemLinkPET, :root [data-advadstrackid], :root [href^="https://affiliate.fastcomet.com/"] > img, :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="https://awentw.com/"], :root [class^="div-gpt-ad"], :root a[href^="//voyeurhit.com/cs/"], :root div[id^="ad_bnr_"], :root a[href^="https://join.virtuallust3d.com/"], :root a[href^="https://speedsupermarketdonut.com/"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root [data-adblockkey], :root div.fadeInDown[id$="____equal"][class$="____equal"], :root a[href^="https://mediaserver.gvcaffiliates.com/renderBanner.do?"], :root a[href^="https://join.dreamsexworld.com/"], :root a[href^="https://odnxe.lncredlbiedate.com/"], :root a[href^="https://click.linksynergy.com/fs-bin/"], :root a[href^="https://join.virtualtaboo.com/track/"], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root a[href^="https://americafirstpolls.com/"] { display: none !important; }</style></head>
+
+<body class="home page-template page-template-home-page page-template-home-page-php page page-id-90">
+
+
+    <!-- START HOMEPAGE DESIGN AREA -->
+    <header id="home" class="welcome-area">
+        <div class="header-top-area">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-3">
+                        <!-- START LOGO DESIGN AREA -->
+                        <div class="logo">
+                            <a href="https://nepalwanders.com/">
+                                <img src="./banner_files/logo1.png" alt="">
+                            </a>
+                        </div>
+                        <!-- END LOGO DESIGN AREA -->
+                    </div>
+                    
+                    <div class="col-md-9">
+                        <!-- START MENU DESIGN AREA -->
+                        
+                        
+                        <div class="mainmenu">
+                            <div class="navbar navbar-nobg">
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+                               <!--<div class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav navbar-right">
+                                        <li class="active"><a class="smoth-scroll" href="#home">Home <div class="ripple-wrapper"></div></a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#">Trek</a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#">Tours</a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#">Activities</a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#">Reservations</a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#">Travels Guide</a>
+                                        </li>
+                                        <li><a class="smoth-scroll" href="#contact">Contact us</a>
+                                        </li>
+                                       <li class="sa-dropdown"><a href="index.html">pages</a>
+									<ul>
+										<li><a href="about-us.html">About Us</a></li>
+										<li><a href="service.html">Services</a></li>
+										<li class="sa-sub-dropdown"><a href="projects.html">Project</a>
+											<ul>
+												<li><a href="projects.html">Projects Grid</a></li>
+												<li><a href="details.php">Project Details</a></li>
+											</ul>
+										</li>
+										<li><a href="contact.html">Contact</a></li>
+										<li><a href="faq.html">FAQ</a></li>
+										<li><a href="404.html">404</a></li>
+									</ul>
+								</li> 
+                                    </ul>
+                                </div>
+                                -->
+                                <nav class="sa-navigation text-right" style="display: block;">
+							<ul>
+							     <div id="bs-example-navbar-collapse-1" class="collapse navbar-collapse"><ul id="menu-header-menu" class="nav sa-navigation"><li id="menu-item-584" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-584 active"><a title="Home" href="http://nepalwanders.com/">Home</a></li>
+<li id="menu-item-585" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-585 sa-dropdown"><a title="Trek" href="https://nepalwanders.com/#" data-hover="dropdown" class="dropdown-toggle">Trek </a>
+<ul role="menu" class=" sa-dropdown">
+	<li id="menu-item-284" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-284"><a title="Annapurna Range" href="http://nepalwanders.com/explore/?vacation-type=trek&amp;destination=annapurna-range&amp;duration=0&amp;price=0" data-hover="dropdown" class="dropdown-toggle">Annapurna Range</a>
+	<ul role="menu" class=" sa-dropdown">
+		<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-723"><a title="Annapurna base camp trek" href="https://nepalwanders.com/trek/annapurna-basecamp-trek/">Annapurna base camp trek</a></li>
+		<li id="menu-item-727" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-727"><a title="Annapurna Discovery" href="https://nepalwanders.com/trek/annapurna-discovery/">Annapurna Discovery</a></li>
+		<li id="menu-item-628" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-628"><a title="Annapurna circuit trek" href="https://nepalwanders.com/trek/annapurna-circuit-trek/">Annapurna circuit trek</a></li>
+		<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-627"><a title="Annapurna luxury trek" href="https://nepalwanders.com/trek/annapurna-luxury-trek/">Annapurna luxury trek</a></li>
+		<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-629"><a title="Annapurna half circuit trek" href="https://nepalwanders.com/trek/annapurna-half-circuit-trek/">Annapurna half circuit trek</a></li>
+		<li id="menu-item-724" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-724"><a title="Jomsom Muktinath trek" href="https://nepalwanders.com/trek/jomsom-muktinath-trek/">Jomsom Muktinath trek</a></li>
+		<li id="menu-item-725" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-725"><a title="Mardi Himal trek" href="https://nepalwanders.com/trek/mardi-himal-trek/">Mardi Himal trek</a></li>
+		<li id="menu-item-726" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-726"><a title="Kopra ridge trek" href="https://nepalwanders.com/trek/kopra-ridge-trek/">Kopra ridge trek</a></li>
+	</ul>
+</li>
+	<li id="menu-item-586" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-586"><a title="Everest Range" href="http://nepalwanders.com/explore/?vacation-type=trek&amp;destination=everest-range" data-hover="dropdown" class="dropdown-toggle">Everest Range</a>
+	<ul role="menu" class=" sa-dropdown">
+		<li id="menu-item-729" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-729"><a title="Everest base camp trek" href="https://nepalwanders.com/trek/jiri-to-everest-base-camp-trek/">Everest base camp trek</a></li>
+		<li id="menu-item-730" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-730"><a title="Everest and gokyo lakes" href="https://nepalwanders.com/trek/everest-and-gokyo-lakes/">Everest and gokyo lakes</a></li>
+		<li id="menu-item-733" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-733"><a title="Gokyo &amp; the Renjola" href="https://nepalwanders.com/trek/gokyo-the-renjola/">Gokyo &amp; the Renjola</a></li>
+		<li id="menu-item-731" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-731"><a title="Everest high passes" href="https://nepalwanders.com/trek/everest-high-passes/">Everest high passes</a></li>
+		<li id="menu-item-734" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-734"><a title="Everest trek" href="https://nepalwanders.com/trek/everest-trek12days/">Everest trek</a></li>
+		<li id="menu-item-728" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-728"><a title="Pikey peak trek" href="https://nepalwanders.com/trek/pikey-peak-trek/">Pikey peak trek</a></li>
+		<li id="menu-item-735" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-735"><a title="Everest circuit &amp; The Chola &amp; Kalapattar" href="https://nepalwanders.com/trek/everest-circuit-thechola-kalapattar/">Everest circuit &amp; The Chola &amp; Kalapattar</a></li>
+		<li id="menu-item-732" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-732"><a title="Amadablam basecamp" href="https://nepalwanders.com/trek/amadablam-base-camp-trek/">Amadablam basecamp</a></li>
+	</ul>
+</li>
+	<li id="menu-item-587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-587"><a title="Langtang Range" href="http://nepalwanders.com/explore/?vacation-type=trek&amp;destination=langtang-range" data-hover="dropdown" class="dropdown-toggle">Langtang Range</a>
+	<ul role="menu" class=" sa-dropdown">
+		<li id="menu-item-736" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-736"><a title="Tamang heritage trek" href="https://nepalwanders.com/trek/tamang-heritage-trail/">Tamang heritage trek</a></li>
+		<li id="menu-item-738" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-738"><a title="Langtang, Gosainkunda and Helambu Trek" href="https://nepalwanders.com/trek/langtang-valley-trek/">Langtang, Gosainkunda and Helambu Trek</a></li>
+		<li id="menu-item-737" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-737"><a title="Langtang valley trek" href="https://nepalwanders.com/trek/tamang-heritage-trail-with-langtang-trek/">Langtang valley trek</a></li>
+		<li id="menu-item-739" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-739"><a title="Helambu trek" href="https://nepalwanders.com/trek/208/">Helambu trek</a></li>
+		<li id="menu-item-740" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-740"><a title="Langtang Valley Trek with Ganja la Pass" href="https://nepalwanders.com/trek/gosaikunda-lake-trek/">Langtang Valley Trek with Ganja la Pass</a></li>
+	</ul>
+</li>
+	<li id="menu-item-588" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-588"><a title="Other" href="http://nepalwanders.com/explore/?vacation-type=trek&amp;destination=other" data-hover="dropdown" class="dropdown-toggle">Other</a>
+	<ul role="menu" class=" sa-dropdown">
+		<li id="menu-item-746" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-746"><a title="Manaslu trek" href="https://nepalwanders.com/trek/manaslu-trek/">Manaslu trek</a></li>
+		<li id="menu-item-741" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-741"><a title="Upper Mustang trek" href="https://nepalwanders.com/trek/upper-mustang-trek/">Upper Mustang trek</a></li>
+		<li id="menu-item-742" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-742"><a title="Upper dolpo trek" href="https://nepalwanders.com/trek/upper-dolpo-trek/">Upper dolpo trek</a></li>
+		<li id="menu-item-747" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-747"><a title="Lower Dolpo trek" href="https://nepalwanders.com/trek/lower-dolpo-trek/">Lower Dolpo trek</a></li>
+		<li id="menu-item-743" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-743"><a title="Tsum valley trek" href="https://nepalwanders.com/trek/tsum-valley-trek/">Tsum valley trek</a></li>
+		<li id="menu-item-744" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-744"><a title="Narphu valley trek" href="https://nepalwanders.com/trek/narphu-valley-trek/">Narphu valley trek</a></li>
+		<li id="menu-item-745" class="menu-item menu-item-type-post_type menu-item-object-trek menu-item-745"><a title="Kanchenjunga trek" href="https://nepalwanders.com/trek/kanchenjunga-trek/">Kanchenjunga trek</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-100" class="tours-icon two-column menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-100 sa-dropdown"><a title="Tours" href="https://nepalwanders.com/#" data-hover="dropdown" class="dropdown-toggle">Tours </a>
+<ul role="menu" class=" sa-dropdown">
+	<li id="menu-item-353" class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-353"><a title="Bardia jungle safari tour" href="https://nepalwanders.com/tour/bardia-jungle-safari-tour/">Bardia jungle safari tour</a></li>
+	<li id="menu-item-604" class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-604"><a title="Nepals Golden Triangle tour" href="https://nepalwanders.com/tour/golden-triangle/">Nepals Golden Triangle tour</a></li>
+	<li id="menu-item-605" class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-605"><a title="Highlights of Kathmandu and Pokhara" href="https://nepalwanders.com/tour/city/">Highlights of Kathmandu and Pokhara</a></li>
+	<li id="menu-item-606" class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-606"><a title="Chitwan Jungle Safari tour" href="https://nepalwanders.com/tour/chitwan-jungle-safari-tour/">Chitwan Jungle Safari tour</a></li>
+	<li id="menu-item-607" class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-607"><a title="Buddhist cultural tour" href="https://nepalwanders.com/tour/buddhist-cultural-tour/">Buddhist cultural tour</a></li>
+</ul>
+</li>
+<li id="menu-item-609" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-609 sa-dropdown"><a title="About" href="https://nepalwanders.com/#" data-hover="dropdown" class="dropdown-toggle">About </a>
+<ul role="menu" class=" sa-dropdown">
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a title="About Us" href="https://nepalwanders.com/why-us/about-us/">About Us</a></li>
+	<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a title="About Nepal" href="https://nepalwanders.com/about-nepal/">About Nepal</a></li>
+	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a title="Terms and conditions" href="https://nepalwanders.com/terms-and-conditions/">Terms and conditions</a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a title="FAQs" href="https://nepalwanders.com/travel-guide/faqs/">FAQs</a></li>
+</ul>
+</li>
+<li id="menu-item-620" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-620"><a title="Travel Guide" href="https://nepalwanders.com/category/travel-guide/">Travel Guide</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-71"><a title="Contact" href="https://nepalwanders.com/contact/">Contact</a></li>
+</ul></div>								               
+							</ul>
+						</nav>
+                            </div>
+                        </div>
+                        <!-- END MENU DESIGN AREA -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header><div style="position: static;"><div style="height: 1px; width: 1px; position: absolute; z-index: 100000; top: 0px; visibility: hidden;"><iframe id="a2a_sm_ifr" title="AddToAny Utility Frame" transparency="true" allowtransparency="true" frameborder="0" src="./banner_files/sm.24.html" style="height: 1px; width: 1px; border: 0px; left: 0px; top: 0px; position: absolute; z-index: 100000; display: none;"></iframe></div></div>
+    <!-- / END HOMEPAGE DESIGN AREA -->
+
+
+
+
+<style>
+    /**
+* Navigation Styles
+*/
+.sa-navigation ul {
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+  font-size: 0;
+}
+
+.sa-navigation ul li {
+  display: inline-block;
+  font-size: 14px;
+}
+
+.sa-navigation ul li a {
+  display: inline-block;
+  letter-spacing: 0.8px;
+  color: #ffffff;
+  padding: 4px 15px;
+  border-radius: 3px;
+}
+
+.sa-navigation ul li:hover > a {
+  background: #ffb300;
+  color: #2b2b35;
+}
+
+.header-style-2 .sa-navigation ul li a {
+  color: #666666;
+}
+
+.header-style-2 .sa-navigation ul li:hover > a {
+  color: #2b2b35;
+}
+
+/* Dropdown Styles */
+.sa-navigation ul li.sa-dropdown {
+  position: relative;
+}
+
+.sa-navigation ul li.sa-dropdown > a::after {
+  content: "\f107";
+  font-family: 'fontAwesome';
+  padding-left: 5px;
+}
+
+.sa-navigation ul li.sa-dropdown ul {
+  border-bottom: 3px solid #ffb300;
+  position: absolute;
+  left: 0;
+  width: 250px;
+  top: calc(100% + 10px);
+  background: rgba(21, 21, 21, 0.95);
+  text-align: left;
+  padding: 15px 0;
+  -webkit-box-shadow: 0 2px 3px rgba(255, 255, 255, 0.15);
+  box-shadow: 0 2px 3px rgba(255, 255, 255, 0.15);
+  -webkit-transition: all 0.2s ease-out 0s;
+  -o-transition: all 0.2s ease-out 0s;
+  transition: all 0.2s ease-out 0s;
+  visibility: hidden;
+  opacity: 0;
+  -webkit-transform: translateY(30px);
+  -ms-transform: translateY(30px);
+  transform: translateY(30px);
+  -webkit-transform-origin: 0 0;
+  -ms-transform-origin: 0 0;
+  transform-origin: 0 0;
+  z-index: 10;
+}
+
+.sa-navigation ul li.sa-dropdown ul::before {
+  content: "";
+  position: absolute;
+  left: 30px;
+  top: auto;
+  bottom: 100%;
+  border-width: 15px;
+  border-style: solid;
+  border-color: transparent transparent rgba(21, 21, 21, 0.95) transparent;
+}
+
+.sa-navigation ul li.sa-dropdown ul li {
+  display: block;
+  position: relative;
+}
+
+.sa-navigation ul li.sa-dropdown ul li.sa-sub-dropdown > a {
+  position: relative;
+  padding-right: 20px;
+}
+
+.sa-navigation ul li.sa-dropdown ul li.sa-sub-dropdown > a::after {
+  content: "\f105";
+  font-family: 'fontAwesome';
+  padding-left: 5px;
+  position: absolute;
+  right: 15px;
+}
+
+.sa-navigation ul li.sa-dropdown ul li a {
+  display: block;
+  padding: 3px 20px;
+  font-family: "Lato", sans-serif;
+  color: #ffffff;
+  font-weight: 400;
+  border-radius: 0;
+}
+
+.sa-navigation ul li.sa-dropdown ul li:hover > a {
+  color: #ffb300;
+  background: transparent;
+}
+
+.sa-navigation ul li.sa-dropdown ul li ul {
+  left: calc(100% + 1px);
+  top: -15px;
+  -webkit-transform: translateX(30px);
+  -ms-transform: translateX(30px);
+  transform: translateX(30px);
+}
+
+.sa-navigation ul li.sa-dropdown ul li ul::before {
+  display: none;
+}
+
+.sa-navigation ul li.sa-dropdown ul li ul li {
+  display: block;
+}
+
+.sa-navigation ul li.sa-dropdown ul li ul li a {
+  display: block;
+}
+
+.sa-navigation ul li.sa-dropdown ul li:hover ul {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transform: translateX(0);
+  -ms-transform: translateX(0);
+  transform: translateX(0);
+}
+
+.sa-navigation ul li.sa-dropdown:hover > ul {
+  visibility: visible;
+  -webkit-transform: translateY(0);
+  -ms-transform: translateY(0);
+  transform: translateY(0);
+  opacity: 1;
+}
+.navbar-collapse.in {
+    overflow-y: none !important;
+}
+</style>
+		 <section class="welcome-image-area" data-stellar-background-ratio="0.6" style="background-position: 0% 32.64px;">
+        <div class="display-table">
+            <div class="display-table-cell">
+                <div class="container">y
+                    <div class="row">
+                        
+                        <div class="col-md-12">
+                            <div class="header-text text-center">
+                                <h1>Where your  <span>journey begins.</span></h1>
+                                <p> Discover your next great adventure, become an explorer to get started!</p>
+                                <!--
+                                <a  data-toggle="modal" href="http://nepalwanders.com/let-us-plan-your-trip/" role="button" data-toggle="modal">Let's Plan Your Trip</a>
+                                -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+      <!-- / END HEADER DESIGN AREA -->
+
+
+<div id="myModal2" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <!-- START FORM DESIGN AREA -->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h2>Let us plan your trip</h2>
+                </div>
+                <div class="modal-body">
+                    <div class="contact-form">
+                      <div role="form" class="wpcf7" id="wpcf7-f796-o1" lang="en-US" dir="ltr">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="https://nepalwanders.com/#wpcf7-f796-o1" method="post" class="wpcf7-form init" novalidate="novalidate" data-status="init">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="796">
+<input type="hidden" name="_wpcf7_version" value="5.6.3">
+<input type="hidden" name="_wpcf7_locale" value="en_US">
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f796-o1">
+<input type="hidden" name="_wpcf7_container_post" value="0">
+<input type="hidden" name="_wpcf7_posted_data_hash" value="">
+</div>
+<p><label> First name* (required)<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label>Last name* (required)<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label>Email* (required)<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label>Confirm email* (required)<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-email1"><input type="email" name="your-email1" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> City*  Enter a location<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label></p>
+<p><label> Phone*<br>
+    <span class="wpcf7-form-control-wrap" data-name="tel-851"><input type="tel" name="tel-851" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-tel wpcf7-validates-as-required wpcf7-validates-as-tel" aria-required="true" aria-invalid="false"></span> </label></p>
+<p><label> How did you hear about us?<br>
+    <span class="wpcf7-form-control-wrap" data-name="menu-191"><select name="menu-191" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="Nepalwanders Emails/Newsletters">Nepalwanders Emails/Newsletters</option><option value="Friend or family Gentleman&#39;s Journal">Friend or family Gentleman's Journal</option><option value="Search Engine e.g. Google">Search Engine e.g. Google</option><option value="I&#39;ve enquired with you before">I've enquired with you before</option><option value="I&#39;ve travelled with you before">I've travelled with you before</option><option value="Newspaper or Magazine">Newspaper or Magazine</option><option value="Social Media">Social Media</option><option value="Website or Blog">Website or Blog</option><option value="Wall Street Journal+Other">Wall Street Journal+Other</option></select></span></label></p>
+<hr>
+<label> Where would you like to go?<br>
+    <span class="wpcf7-form-control-wrap" data-name="your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false"></span> </label><p></p>
+<p><label> When would you like to go?<br>
+    <span class="wpcf7-form-control-wrap" data-name="date-412"><input type="date" name="date-412" value="" class="wpcf7-form-control wpcf7-date wpcf7-validates-as-date" aria-invalid="false"></span> </label></p>
+<p><label> Any other comments or requests?<br>
+    <span class="wpcf7-form-control-wrap" data-name="textarea-542"><textarea name="textarea-542" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><label>How many people are travelling?<br>
+<span class="wpcf7-form-control-wrap" data-name="menu-972"><select name="menu-972" class="wpcf7-form-control wpcf7-select" aria-invalid="false"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select></span><br>
+</label></p>
+<p><label><br>
+How much would you like to spend per person?<br>
+<span class="wpcf7-form-control-wrap" data-name="number-5"><input type="number" name="number-5" value="" class="wpcf7-form-control wpcf7-number wpcf7-validates-as-number" aria-invalid="false"></span><br>
+</label></p>
+<p><input type="submit" value="Send" class="wpcf7-form-control has-spinner wpcf7-submit"><span class="wpcf7-spinner"></span></p>
+<hr>
+(We'll get back to you in 2 business hours)<p></p>
+<div class="wpcf7-response-output" aria-hidden="true"></div></form></div>                    </div>
+                </div>
+               
+            </div>
+            <!-- / END FORM DESIGN AREA -->
+        </div>
+    </div>
+
+    <div id="myModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <!-- START FORM DESIGN AREA -->
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                    <h2>Book a Tour</h2>
+                </div>
+                <div class="modal-body">
+                    <div class="contact-form">
+                        <form id="contact-form" method="post" action="https://nepalwanders.com/#">
+                            <div class="row">
+                                <div class="form-group col-md-12">
+                                    <input type="text" name="name" class="form-control" id="first-name" placeholder="Enter Name" required="required">
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Enter Email" required="required">
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <select class="form-control" id="person">
+                                            <option>How Many Person?</option>
+                                            <option>1 person</option>
+                                            <option>2 person</option>
+                                            <option>3 person</option>
+                                          </select>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <select class="form-control" id="days">
+                                            <option>How Many Days?</option>
+                                            <option>2 days</option>
+                                            <option>3 days</option>
+                                            <option>4 days</option>
+                                          </select>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <textarea id="message" class="form-control" placeholder="Your Message" rows="4" required=""></textarea>
+                                </div>
+                                <div class="form-group col-md-12">
+                                    <input type="submit" name="submit" value="Book Now">
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn" data-dismiss="modal" aria-hidden="true">close</button>
+                </div>
+            </div>
+            <!-- / END FORM DESIGN AREA -->
+        </div>
+    </div>
+
+
+<!-- START ABOUT DESIGN AREA -->
+    <section id="About" class="about-us-area section-padding">
+                <div class="container">
+            
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-title text-center">
+                        <h2>Welcome to Nepal wanders!</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+               
+                <!-- START ABOUT TEXT DESIGN AREA -->
+                <div class="col-md-12">
+                    <div class="about-text text-center">
+                        
+                        <p class="wow fadeInDown" data-wow-delay=".4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInDown;"></p><p>We manage and you travel easy – that’s the motto of our company. Connect with us and we will do the rest.&nbsp;The responsibility is huge and we are here to make sure even the miniscule is served without any reluctance.</p>
+<p></p>
+                        <a href="https://nepalwanders.com/why-us/about-us/" class="read-more wow fadeInDown" data-wow-delay=".6s" style="visibility: visible; animation-delay: 0.6s; animation-name: fadeInDown;">Learn more</a>
+                    </div>
+                </div>
+                <!-- / END ABOUT TEXT DESIGN AREA -->
+            </div>
+        </div>
+        	    </section>
+    <!-- / END ABOUT DESIGN AREA -->
+
+    <!-- START TOUR PLACE DESIGN AREA -->
+    <section id="place" class="section-padding" style="">
+        
+        
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div class="section-title text-center">
+                        <h2 style="color:rgb(15, 15, 15)">Wanders Signatures</h2>
+                    </div>
+                </div>
+            </div>
+ <div class="section-background-white">
+    <div class="container">
+      
+
+
+     
+
+        <div class="row">
+                     <div class="col-sm-8 tytm">
+             <a href="https://nepalwanders.com/trek/everest-high-passes/"> 
+             <img width="730" height="210" src="./banner_files/choose-2560-1-730x210.jpg" class="attachment-featured-large size-featured-large wp-post-image" alt="" loading="lazy">             </a>
+              <div class="tyt">
+               <h3> <a href="https://nepalwanders.com/trek/everest-high-passes/">Everest high passes        
+               </a></h3>
+                
+            </div>
+            </div>
+            
+            
+          
+                       <div class="col-md-4 tytm">
+           <a href="https://nepalwanders.com/tour/golden-triangle/"> 
+          <img width="350" height="210" src="./banner_files/Pokharabeauty-350x210.jpg" class="attachment-featured-small size-featured-small wp-post-image" alt="" loading="lazy">           </a>
+            <div class="tyt">
+              <h3> <a href="https://nepalwanders.com/tour/golden-triangle/">Nepals Golden Triangle tour</a></h3>
+               
+            </div>
+            </div>
+
+      
+  </div>
+       
+        <br>
+        <div class="row">
+                     <div class="col-md-4 tytm">
+      <a href="https://nepalwanders.com/trek/jiri-to-everest-base-camp-trek/">  <img width="350" height="210" src="./banner_files/mteverf-350x210.jpg" class="attachment-featured-small size-featured-small wp-post-image" alt="" loading="lazy">      </a>
+        <div class="tyt">
+                <h3> <a href="https://nepalwanders.com/trek/jiri-to-everest-base-camp-trek/">Everest base camp trek</a></h3>
+               
+            </div>
+        </div>
+          
+    
+            <div class="col-md-4 tytm">
+      <a href="https://nepalwanders.com/trek/annapurna-basecamp-trek/"> <img width="350" height="210" src="./banner_files/newtrek-350x210.jpg" class="attachment-featured-small size-featured-small wp-post-image" alt="" loading="lazy">      </a>
+        <div class="tyt">
+                <h3> <a href="https://nepalwanders.com/trek/annapurna-basecamp-trek/">Annapurna base camp trek</a></h3>
+               
+            </div>
+        </div>
+          
+    
+            <div class="col-md-4 tytm">
+      <a href="https://nepalwanders.com/trek/upper-dolpo-trek/">  <img width="350" height="210" src="./banner_files/Untitleddolpo-350x210.jpg" class="attachment-featured-small size-featured-small wp-post-image" alt="" loading="lazy">      </a>
+        <div class="tyt">
+                <h3> <a href="https://nepalwanders.com/trek/upper-dolpo-trek/">Upper dolpo trek</a></h3>
+               
+            </div>
+        </div>
+          
+    
+        </div>
+        <br>
+        <div class="row">
+                    <div class="col-md-4 tytm">
+        <a href="https://nepalwanders.com/trek/tsum-valley-trek/"><img width="350" height="210" src="./banner_files/newtsum-350x210.jpg" class="attachment-featured-small size-featured-small wp-post-image" alt="" loading="lazy">        </a>
+        <div class="tyt">
+                <h3> <a href="https://nepalwanders.com/trek/tsum-valley-trek/">Tsum valley trek</a></h3>
+               
+            </div>
+        </div>
+           
+            <div class="col-sm-8 tytm">
+          <a href="https://nepalwanders.com/trek/langtang-valley-trek/">   <img width="730" height="210" src="./banner_files/langtanregion77-730x210.jpg" class="attachment-featured-large size-featured-large wp-post-image" alt="" loading="lazy"></a>
+              <div class="tyt">
+               <h3> <a href="https://nepalwanders.com/trek/langtang-valley-trek/">Langtang, Gosainkunda and Helambu Trek</a></h3>
+                
+            </div>
+</div>
+   
+        </div>
+        
+        
+    </div></div></div></section>
+    <!-- / END  TOUR PLACE DESIGN AREA -->
+
+
+<!-- START ABOUT DESIGN AREA -->
+    <section id="About" class="about-us-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-title text-center">
+                        <h2>Why book on nepalwanders</h2>
+                    </div>
+                </div>
+            </div>
+          
+
+  <!-- Nav tabs -->
+  
+  
+  <div id="tab" style="margin-top:25px">
+    <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="post-122 active"><a href="https://nepalwanders.com/#post-122" aria-controls="home" role="tab" data-toggle="tab">THE COMPLETE EXPERIENCE</a></li>
+                    <li role="presentation" class="post-621 "><a href="https://nepalwanders.com/#post-621" aria-controls="home" role="tab" data-toggle="tab">EDUCATION &amp; EXPERTISE</a></li>
+                    <li role="presentation" class="post-622 "><a href="https://nepalwanders.com/#post-622" aria-controls="home" role="tab" data-toggle="tab">RESPONSIBILE TRAVEL</a></li>
+                    <li role="presentation" class="post-623 "><a href="https://nepalwanders.com/#post-623" aria-controls="home" role="tab" data-toggle="tab">VALUE</a></li>
+            </ul>
+    <div class="tab-content">
+                    <div role="tabpanel" class="tab-pane active" id="post-122"><div class="page" title="Page 11">
+<div class="section">
+<div class="layoutArea">
+<div>We understand that your trip is not a sum of transactions, however it is a complex collection of experiences that begin with your first inquiry.&nbsp; We learn about your interests and preferences so that we can craft an itinerary that you will love.&nbsp; Whether you’d like experiences centered around your passions such as cuisine, architecture, adventure, or a specific destination, we will ensure your trip is inspired by you.&nbsp; Moreover we will guide you through the entire process, from pre-travel advice on packing, vaccinations, and assistance with travel documents to a comfortable and stress-free return home, we work with you to design a seamless journey catered to your unique interests.</div>
+</div>
+</div>
+</div>
+</div>
+                    <div role="tabpanel" class="tab-pane " id="post-621"><p>Travel is our passion and daily focus and we are continuously working to experience and encounter many of the resorts, activities and destinations that you are seeking.&nbsp; In addition to our vast first-hand travels, we stay up to date on the latest travel news, itineraries, trends, and policies through constant communication with our network, ongoing training and industry events.&nbsp; Our knowledge, relationships and expertise allow us to design exclusive experiences that you will treasure for a lifetime.</p>
+<p>&nbsp;</p>
+</div>
+                    <div role="tabpanel" class="tab-pane " id="post-622"><div class="wpb_tabstabs_holder clearfix" data-interval="0">
+<div class="q_tabs horizontal center">
+<div class="tabs-container">
+<div id="tab-1404399634322-3-6" class="tab-content">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<p>Sustainable travelling is at the&nbsp;core of everything we do, which&nbsp;is why have policies in place to ensure&nbsp;destinations retain their natural character and cultural diversity.&nbsp;We develop our trips to help people become more culturally and environmentally aware. The aim is to give you big adventures&nbsp;while we maintain a small footprint!</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+                    <div role="tabpanel" class="tab-pane " id="post-623"><p>We all want value for money. By negotiating contracted rates with the hotels, expert guides, activity providers and airlines we work with, we can keep our prices as competitive as possible. One thing we can offer that is truly priceless though is time – while we do all the heavy lifting, you can sit back safe in the knowledge that we will plan your perfect trip down to the smallest detail.</p>
+</div>
+            </div>
+</div>
+  
+  
+  
+  
+  
+ 
+</div>
+
+
+               
+               
+                <!-- / END ABOUT TEXT DESIGN AREA -->
+            
+        
+    </section>
+    <!-- / END ABOUT DESIGN AREA -->
+
+ <!-- VIDEO BACKGROUND DESIGN AREA -->
+    <section class="video-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="video-area-text text-center wow bounceIn" style="visibility: hidden; animation-name: none;">
+                        <a href="https://www.youtube.com/watch?v=jbXhcO7J5fA" data-toggle="modal" data-target="#sss">
+                            <i class="fa fa-play"></i>
+                        </a>
+                        <h2>Travelling Highlights</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="modal fade" id="sss" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        
+      </div>
+      <div class="modal-body">
+       <iframe width="100%" height="350" src="./banner_files/jbXhcO7J5fA.html" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+      </div>
+     
+    </div>
+  </div>
+</div>
+    <!-- / END VIDEO BACKGROUND DESIGN AREA -->
+
+
+
+ <!-- START TEAM DESIGN AREA -->
+   <section id="About" class="about-us-area section-padding" style="min-height:650px">
+        <div class="container text-center">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="section-title">
+                        <h2>Professional Team</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <!-- START SINGLE TEAM DESIGN AREA -->
+                
+                
+               
+                
+                							    
+                <!-- / END SINGLE TEAM DESIGN AREA -->
+                 <!-- START SINGLE TEAM DESIGN AREA -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-team">
+                        <div class="team-image">
+                            <img src="./banner_files/1.jpg" class="img-responsive" onclick="openNav121()">
+                        </div>
+                        <div class="team-description">
+                            <h4>Tshering Wongdi Sherpa</h4>
+                          
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="myNav121" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav121()">×</a>
+  <div class="overlay-content">
+   <div class="container text-center" style="color: #fff">
+        
+<img src="./banner_files/1.jpg" class=" img-circle" with="100px" height="100px"><br>
+
+<h3>Tshering Wongdi Sherpa</h3>
+<p></p><div>TREK LEADER</div>
+<p>Tshering Wongdi Sherpa is one of our most senior among the trekking leaders. Hailing from Solukhumbhu, he has been on the field for more than twenty years and takes a great pride in proclaiming oneself as a hard-working Sherpa. The vast experience and knowledge he has gained in the Solukhumbu region is a great pride and we as a medium to associate him to our guests in our Nepal travel is in itself a great feat achieved by Nepal Wanders. We are proud to be associated with him.</p>
+<p></p>
+
+  </div>
+  </div>
+</div>
+<script>
+function openNav121() {
+    document.getElementById("myNav121").style.width = "100%";
+}
+
+function closeNav121() {
+    document.getElementById("myNav121").style.width = "0%";
+}
+</script>
+                 
+                <!-- / END SINGLE TEAM DESIGN AREA -->
+                 <!-- START SINGLE TEAM DESIGN AREA -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-team">
+                        <div class="team-image">
+                            <img src="./banner_files/IMG_4245.jpg" class="img-responsive" onclick="openNav133()">
+                        </div>
+                        <div class="team-description">
+                            <h4>Gelbu Sherpa</h4>
+                          
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="myNav133" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav133()">×</a>
+  <div class="overlay-content">
+   <div class="container text-center" style="color: #fff">
+        
+<img src="./banner_files/IMG_4245.jpg" class=" img-circle" with="100px" height="100px"><br>
+
+<h3>Gelbu Sherpa</h3>
+<p></p><div><em>TREK LEADER</em></div>
+<div class="page" title="Page 10">
+<div class="section">
+<p></p>
+<div class="layoutArea">
+<div class="column">
+Gelbu – born and bred in Solukhumbu, Everest – is an avid adventurer. He has trekked extensively throughout Nepal, and knows the ins and outs, nooks and crannies of each trekking trail making him as one of the most efficient and reliable guy when it comes to trekking. A true expert in the Everest and Annapurna region, Gelbu has developed an exhaustive first hand knowledge of the cultures, trails and the mountains. He looks forward to every journey with great enthusiasm and motivation; and achieves great pride in successfully completing the task in hand. </div>
+</div>
+</div>
+</div>
+<p></p>
+
+  </div>
+  </div>
+</div>
+<script>
+function openNav133() {
+    document.getElementById("myNav133").style.width = "100%";
+}
+
+function closeNav133() {
+    document.getElementById("myNav133").style.width = "0%";
+}
+</script>
+                 
+                <!-- / END SINGLE TEAM DESIGN AREA -->
+                 <!-- START SINGLE TEAM DESIGN AREA -->
+                <div class="col-md-4 col-sm-6">
+                    <div class="single-team">
+                        <div class="team-image">
+                            <img src="./banner_files/2.jpg" class="img-responsive" onclick="openNav135()">
+                        </div>
+                        <div class="team-description">
+                            <h4>Dawa Sherpa</h4>
+                          
+                            
+                        </div>
+                    </div>
+                </div>
+                
+                <div id="myNav135" class="overlay">
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav135()">×</a>
+  <div class="overlay-content">
+   <div class="container text-center" style="color: #fff">
+        
+<img src="./banner_files/2.jpg" class=" img-circle" with="100px" height="100px"><br>
+
+<h3>Dawa Sherpa</h3>
+<p></p><div><em>Trek Leader</em></div>
+<div class="page" title="Page 10">
+<div class="section">
+<div class="layoutArea">
+<div class="column">
+<p>Dawa Sherpa is a passionate trekking leader holding 15 to 20 years experience in organizing treks and travel arrangements with local as well as International tours and trekking companies. He started his trek adventure with one of the leading companies in Kathmandu where he sharpened his knowledge of the Himalaya and mastered the art of high altitude trekking in Nepal. Born in Solukhumbhu and loves leading trekking groups into the high altitude of Everest Region, Annapurna, Langtang and many more.</p>
+</div>
+</div>
+</div>
+</div>
+<p></p>
+
+  </div>
+  </div>
+</div>
+<script>
+function openNav135() {
+    document.getElementById("myNav135").style.width = "100%";
+}
+
+function closeNav135() {
+    document.getElementById("myNav135").style.width = "0%";
+}
+</script>
+                 							                    <!-- / END SINGLE TEAM DESIGN AREA -->
+                <!-- START SINGLE TEAM DESIGN AREA -->
+              
+            </div>
+        </div>
+    </section>
+    <!-- / END TEAM DESIGN AREA -->
+
+   
+     
+
+	
+
+
+
+    <!-- START CONTACT DESIGN AREA -->
+    <section id="contact" class="contact-area section-padding" data-stellar-background-ratio="0.6" style="background-position: 0% -1495.24px;">
+        <div class="container">
+            
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="single-contact wow fadeInUp" data-wow-delay=".4s" style="visibility: hidden; animation-delay: 0.4s; animation-name: none;">
+                       
+                        
+                        <p><a href="http://nepalwanders.com/">Home</a></p>
+                        <p><a href="http://nepalwanders.com/why-us/about-us/">About Us</a></p>
+                       
+                       
+                        <p><a href="http://nepalwanders.com/contact/">Contact Us</a></p>
+                    </div>
+                </div>
+                <div class="col-sm-3 text-center">
+                    <div class="single-contact wow fadeInUp" data-wow-delay=".2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                        
+                            <i class="fa fa-envelope"></i>
+                        <br>
+                        <h2>All day every day:</h2>
+                        <p>info@nepalwanders.com</p>
+                       
+                    </div>
+                </div>
+                
+                
+               <div class="col-sm-3 text-center">
+                    <div class="single-contact wow fadeInUp" data-wow-delay=".2s" style="visibility: hidden; animation-delay: 0.2s; animation-name: none;">
+                        
+                            <i class="fa fa-phone"></i>
+                        <br>
+                      
+                       Ekantakuna Rd, Patan 44600
+                        <br><br>
+                        +977-9803903549,+977-9841708209
+                       
+                       
+                    </div>
+                </div>
+
+                <div class="col-sm-3 text-center">
+                    <div class="single-contact wow fadeInUp" data-wow-delay=".6s" style="visibility: hidden; animation-delay: 0.6s; animation-name: none;">
+                       
+                        
+                         
+                          <a href="http://facebook.com/" target="_blank">  <i class="fa fa-facebook"></i> &nbsp;&nbsp;</a>
+                       
+                         <a href="http://instagram.com/" target="_blank">   <i class="fa fa-instagram" aria-hidden="true"></i>
+&nbsp;&nbsp;</a>
+<a href="http://linkedin.com/" target="_blank"> 
+ <i class="fa fa-linkedin" aria-hidden="true"></i>
+&nbsp;&nbsp;</a>
+
+<a href="http://skype.com/" target="_blank"> 
+ <i class="fa fa-skype" aria-hidden="true"></i>
+&nbsp;&nbsp;</a>
+                        
+                        
+                       <a href="http://youtube.com/" target="_blank">      <i class="fa fa-youtube"></i>&nbsp;&nbsp;</a>
+                            <br>  <br>  <br>
+                          
+                        
+                    </div>
+                </div>
+            </div>
+           
+        </div>
+    </section>
+    <!-- / END CONTACT DESIGN AREA -->
+
+    <!-- START FOOTER DESIGN AREA -->
+    <footer class="footer-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 text-center">
+                    <div class="footer-text">
+                        <h6>©copyright | Nepalwanders 2018 .all right Reserved</h6>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- / END CONTACT DETAILS DESIGN AREA -->
+
+     <div class="scroll-to-up">
+        <div class="scrollup" style="display: none;">
+            <span class="lnr lnr-chevron-up"></span>
+        </div>
+    </div>
+    <!-- / END SCROOL UP DESIGN AREA -->
+    <!-- LATEST JQUERY -->
+    <script src="./banner_files/jquery.min.js(1).download"></script>
+    <!-- BOOTSTRAP JS -->
+    <script src="./banner_files/bootstrap.min.js.download"></script>
+    <!-- OWL CAROUSEL JS  -->
+    <script src="./banner_files/owl.carousel.min.js.download"></script>
+    <!-- MAGNIFICANT JS -->
+    <script src="./banner_files/jquery.magnific-popup.min.js.download"></script>
+    <!-- STEALLER JS -->
+    <script src="./banner_files/jquery.stellar.min.js.download"></script>
+    <!-- WOW JS -->
+    <script src="./banner_files/wow.min.js.download"></script>
+    <!-- CONTCAT FORM JS -->
+    <script src="./banner_files/form-contact.js.download"></script>
+    <!-- scripts js -->
+    <script src="./banner_files/scripts.js.download"></script>
+    <!-- BEGIN JIVOSITE CODE {literal} -->
+
+<!-- {/literal} END JIVOSITE CODE -->
+<script src="./banner_files/jquery.min.js(2).download"></script>
+
+  
+
+    <script src="./banner_files/index.js.download"></script>
+
+<script>
+    const dropdowns = $('#my_menu_id').children('.menu-item-has-children')
+
+if (dropdowns.length > 0) {
+  dropdowns.each((i, el) => {
+    const li = $(el)
+    const link = $('> a:first-child', li)
+    const toggle = $(`<a href="#" class="dropdown-toggle icon-caret"
+      data-toggle="dropdown" role="button" aria-haspopup="true"
+      aria-expanded="false" class="caret"><i class="fa fa-caret-down"></i></a>`)
+    toggle
+      .addClass('dropdown-toggle')
+      .attr('data-toggle', 'dropdown')
+      .attr('role', 'button')
+      .attr('aria-haspopup', 'true')
+
+    li.append(toggle)
+
+    link.on('mouseover', function () {
+      if (!$(this).parent().hasClass('open')) {
+        $('a.icon-caret', $(this).parent()).dropdown('toggle')
+      }
+    })
+
+    $('ul.sub-menu', li).addClass('dropdown-menu')
+
+    toggle.dropdown()
+  })
+}
+</script>
+
+<script type="text/javascript" src="./banner_files/index.js(1).download" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/nepalwanders.com\/wp-json\/","namespace":"contact-form-7\/v1"},"cached":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./banner_files/index.js(2).download" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./banner_files/navigation.js.download" id="nepalwanders-navigation-js"></script>
+<script type="text/javascript" src="./banner_files/skip-link-focus-fix.js.download" id="nepalwanders-skip-link-focus-fix-js"></script>
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="./banner_files/amsify.suggestags.css">
+
+<script type="text/javascript" src="./banner_files/jquery.amsify.suggestags.js.download"></script>
+
+
+
+<script type="text/javascript">
+	$('input[name="planets"]').amsifySuggestags({
+		suggestions: ['Lalitpur', 'Pokhara', 'Kathmandu', 'Bharatpur', 'Janakpur', 'Hetauda', 'Nepalgunj', 'Itahari','Dhangadhi', 'Tulsipur', 'Butwal','Dharan'],
+		whiteList: true
+	});	
+</script>
+
+
+
+
+<style type="text/css">.typewrite > .wrap { border-right: 0.02em solid #fff}</style></body></html>
